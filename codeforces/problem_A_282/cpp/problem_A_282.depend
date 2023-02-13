@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676316061 source:/home/ubuntu/cpp/cp/codeforces/problem_A_282/main.cpp
+	<iostream>
+	<string>
+
